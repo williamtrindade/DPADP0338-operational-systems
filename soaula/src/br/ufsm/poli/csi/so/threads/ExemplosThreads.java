@@ -12,11 +12,6 @@ public class ExemplosThreads {
                     //throw new RuntimeException(e);
                 }
             });
-//            try {
-//                Thread.sleep(5);
-//            } catch (InterruptedException e) {
-//                //throw new RuntimeException(e);
-//            }
         }
     }
 }
